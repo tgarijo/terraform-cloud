@@ -1,0 +1,21 @@
+instance create with IP 13.219.182.21
+instance 13.219.182.21 destroy
+instance create with IP 3.236.244.161
+instance 3.236.244.161 destroy
+instance create with IP 52.91.90.158 
+instance  52.91.90.158 destroy
+instance create with IP 98.91.196.216 
+instance  98.91.196.216 destroy
+instance create with IP 18.215.171.181 
+instance  18.215.171.181 destroy
+instance create with IP 52.23.170.216 
+instance  52.23.170.216 destroy
+instance create with IP 3.84.128.142 
+instance  3.84.128.142 destroy
+instance create with IP 3.89.104.171 
+instance  3.89.104.171 destroy
+instance create with IP 34.227.194.139 
+instance  34.227.194.139 destroy
+instance create with IP 98.88.82.179 
+instance  98.88.82.179 destroy
+instance create with IP 100.26.143.82 
